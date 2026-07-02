@@ -1,0 +1,7 @@
+-- ============================================================
+-- Model Term Frequency - Inverse Document Frequqncy (TF-IDF)
+-- Dissertation: Budi Sunaryo, Universitas Andalas, 2026
+-- ============================================================
+
+Nama file	: Data_TFIDF.pkl
+Link download	: https://drive.google.com/file/d/1gHCKozrmP4FR09mOJ5oLUsBi6ms18ISq/view?usp=sharing

@@ -1,0 +1,7 @@
+-- ============================================================
+-- Model Support Vector Classifier (SVC) dari SVM
+-- Dissertation: Budi Sunaryo, Universitas Andalas, 2026
+-- ============================================================
+
+Nama file	: SVC.pkl
+Link download	: https://drive.google.com/file/d/1GIZwq593_R3be10Tz9IJE5nPaHvF3dr6/view?usp=sharing
